@@ -1,4 +1,4 @@
-# Deep Convolutional Generative Adversarial Network for MNIST
+# Deep Convolutional Generative Adversarial Network
 Implementation of Deep Convolutional Generative Adversarial Network for MNIST using Keras.
 
 
